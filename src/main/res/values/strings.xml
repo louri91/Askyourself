@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">AskYourself</string>
+
+    <string name="boton1">Jugar</string>
+    <string name="boton2">Resultados</string>
+    <string name="boton3">Otros Juegos</string>
+    <string name="action_settings">Opciones</string>
+    <string name="title_activity_partida">Partida</string>
+    <string name="title_activity_otros_juegos">otrosJuegos</string>
+    <string name="title_activity_question">question</string>
+    <string name="pregunta">Pregunta: </string>
+    <string name="respuesta1">Primera Respuesta</string>
+    <string name="respuesta2">Segunda Respuesta</string>
+    <string name="respuesta3">Tercera Respuesta</string>
+    <string name="respuesta4">Cuarta Respuesta</string>
+    <string name="resultados">Resultados: </string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_resultados">resultados</string>
+    <string name="title_activity_fin_partida">FinPartida</string>
+    <string name="title_activity_fallo_pregunta">falloPregunta</string>
+    <string name="title_activity_temas">temas</string>
+    <string name="historia">Historia</string>
+    <string name="arte">Arte</string>
+    <string name="ciencia">Ciencia</string>
+    <string name="deporte">Deporte</string>
+    <string name="entretenimiento">Ocio</string>
+    <string name="geografia">Geografía</string>
+    <string name="title_activity_pausa_juego">pausaJuego</string>
+    <string name="fecha">Fecha</string>
+    <string name="aciertos">Aciertos</string>
+    <string name="fallos">Fallos</string>
+    <string name="total">Total</string>
+
+
+</resources>
